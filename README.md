@@ -1,6 +1,15 @@
-# Calculadora
+<a href="https://imgur.com/vRqmHvY"><img src="https://i.imgur.com/IXbe6B1.png"/></a>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+# Calculadora-Angular
+
+Este projeto foi gerado em [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+
+
+## Uma aplicação voltada para aprendizado de fundamentos deste Framework, chamado Angular.
+
+- Criação do primeiro component " ng g component ".
+- Integrar o framework ao HTML, com o comando em HTML, <strong>(click)</strong>
+- E por último, fazer a parte de Teste, com <strong>Jasmine</strong>.
 
 ## Development server
 
@@ -22,6 +31,12 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+### Autor
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<a href="https://ibb.co/MVB6s6q"><img style="border-radius: 50%;" src="https://i.ibb.co/vPXYHY2/51687403-1322044451268357-3195307869809410048-o.jpg" alt="51687403-1322044451268357-3195307869809410048-o" width="100px;" ></a>
+
+By ~ Jefferson Silva 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jeffersom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferzom-odelot/)](https://www.linkedin.com/in/jefferzom-odelot/) 
+[![Gmail Badge](https://img.shields.io/badge/-jeffsilvadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffsilvadev@gmail.com)](mailto:jeffsilvadev@gmail.com)
