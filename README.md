@@ -1,4 +1,4 @@
-<a href="https://imgur.com/vRqmHvY"><img src="https://i.imgur.com/IXbe6B1.png"/></a>
+<a href="https://imgur.com/IXbe6B1"><img src="https://i.imgur.com/IXbe6B1.png"/></a>
 
 # Calculadora-Angular
 
