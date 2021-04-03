@@ -23,4 +23,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 By ~ Jefferson Silva 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jeffersom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferzom-odelot/)](https://www.linkedin.com/in/jefferzom-odelot/) 
-[![Gmail Badge](https://img.shields.io/badge/-jeffsilvadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffsilvadev@gmail.com)](mailto:jeffsilvati@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jeffsilvati@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffsilvati@hotmail.com)](mailto:jeffsilvati@hotmail.com)
